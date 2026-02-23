@@ -126,7 +126,7 @@ Microsoft Copilot Studio can access data in Microsoft Dataverse using agent flow
 
 1. Select **Save draft** near the upper-right of the page.
 
-1. Wait for the save to complete, then select **Publish**. In the **Your agent flow published successfully!** pop-up, select **Go back to agent**.
+1. Wait for the save to complete, then select **Publish**. In the **Your agent flow published successfully!** pop-up, select **Flows**.
 
 1. Select **Flows** on the left.
 
