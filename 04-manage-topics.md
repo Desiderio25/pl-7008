@@ -62,7 +62,7 @@ In this exercise, you will create topics in an agent and add trigger phrases.
 
 ### Task 2.1 – Add a topic using copilot
 
-1. Select **+ Add a topic** and select **Create from description with Copilot**. A new window appears.
+1. Select **+ Add a topic** and select **Add from description with Copilot**. A new window appears.
 
     ![Create topic with copilot.](media/topic-create-from-description-2.png)
 
