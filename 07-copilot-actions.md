@@ -89,7 +89,7 @@ Microsoft Copilot Studio can access data in Microsoft Dataverse using agent flow
 
     > **Important:** Ensure there is a space between eq and Bedrooms.
 
-1. Select the **Respond to Copilot** action in the authoring canvas and select **+ Add an output**.
+1. Select the **Respond to Agent** action in the authoring canvas and select **+ Add an output**.
 
 1. Select **Text**.
 
